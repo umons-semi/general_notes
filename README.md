@@ -1,4 +1,6 @@
 # General Notes 
+Useful notes to make changes on github repositories and more
+
 
 ## Table of Contents
 - [Adding Collaborators](#Adding-Collaborators)
