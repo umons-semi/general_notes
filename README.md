@@ -14,11 +14,13 @@ Step-by-Step Instructions
 
 1. Go to your repository on GitHub.com
 2. Click "Settings" (the gear icon tab near the top of the repository page)
-3. In the left sidebar, click "Collaborators" under the "Access" section
-4. Click "Add people" (green button)
-5. Enter their GitHub username or email address in the search field
-6. Select the appropriate role for the collaborator (Read, Triage, Write, Maintain, or Admin)
-7. Click "Add [username] to repository"
+   <img width="1550" height="409" alt="image" src="https://github.com/user-attachments/assets/ae5e0be6-8213-4fe5-aed7-fd832b7c63fb" />
+
+4. In the left sidebar, click "Collaborators" under the "Access" section
+5. Click "Add people" (green button)
+6. Enter their GitHub username or email address in the search field
+7. Select the appropriate role for the collaborator (Read, Triage, Write, Maintain, or Admin)
+8. Click "Add [username] to repository"
 
 The person you invited will receive an email invitation and must accept it before they can access and contribute to your repository.
 
