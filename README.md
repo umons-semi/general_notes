@@ -1,5 +1,19 @@
 # General Notes - general_notes
 
+# Project Title
+
+## Table of Contents
+- [Adding Collaborators](#Adding-Collaborators)
+ - [Understanding Permission Levels](#Understanding-Permission-Levels)
+ - [Important Notes](#Important-Notes) 
+- [Adding Videos to the repository](#Adding-Videos-to-the-repository) 
+ - [quick Answer: Two Main Ways to Add Videos](#quick-Answer-Two-Main-Ways-to-Add-Videos) 
+ - [Method 1: Upload Video to Your Repository ](#Method-1-Upload-Video-to-Your-Repository)
+ - [Method 2: Upload via Issue or Pull Request (Recommended for Embedding)](#Method-2-Upload-via-Issue-or-Pull-Request-Recommended-for-Embedding) 
+- [How to Embed Video in README or Markdown] (#How-to-Embed-Video-in-README-or-Markdown)
+- [For Large Videos (>100MB): Use Git LFS](#For-Large-Videos-100MB-Use-Git-LFS) 
+- [Alternative: Host Elsewhere and Embed](#Alternative-Host-Elsewhere-and-Embed)
+- [Summary Table](#Summary-Table)
 
 # Adding Collaborators
 
