@@ -1,6 +1,4 @@
-# General Notes - general_notes
-
-# Project Title
+# General Notes 
 
 ## Table of Contents
 - [Adding Collaborators](#Adding-Collaborators)
