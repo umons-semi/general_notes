@@ -4,16 +4,10 @@
 
 ## Table of Contents
 - [Adding Collaborators](#Adding-Collaborators)
- - [Understanding Permission Levels](#Understanding-Permission-Levels)
- - [Important Notes](#Important-Notes) 
 - [Adding Videos to the repository](#Adding-Videos-to-the-repository) 
- - [quick Answer: Two Main Ways to Add Videos](#quick-Answer-Two-Main-Ways-to-Add-Videos) 
- - [Method 1: Upload Video to Your Repository ](#Method-1-Upload-Video-to-Your-Repository)
- - [Method 2: Upload via Issue or Pull Request (Recommended for Embedding)](#Method-2-Upload-via-Issue-or-Pull-Request-Recommended-for-Embedding) 
-- [How to Embed Video in README or Markdown] (#How-to-Embed-Video-in-README-or-Markdown)
-- [For Large Videos (>100MB): Use Git LFS](#For-Large-Videos-100MB-Use-Git-LFS) 
-- [Alternative: Host Elsewhere and Embed](#Alternative-Host-Elsewhere-and-Embed)
-- [Summary Table](#Summary-Table)
+- [Indexing the Readme file](#Indexing-the-Readme-file)
+
+- -------------
 
 # Adding Collaborators
 
@@ -50,6 +44,8 @@ Here are the roles you can assign to collaborators:
 - For public repositories, people can contribute via pull requests without being added as collaborators
 
 Once they accept, your collaborators can push changes to the repository just like you can (depending on their permission level). For better collaboration practices, consider having them work on feature branches and use pull requests rather than committing directly to the main branch.
+
+- -------------
 
 # Adding Videos to the repository
 
@@ -172,9 +168,13 @@ This approach:
 
 The issue-upload method is usually the sweet spot—you get a playable embedded video without bloating your repository or hitting size limits.
 
+- -------------
+
 # Indexing the Readme file
 
-You can create an index (table of contents) in your README.md file using Markdown anchor links. Here are several ways to do it:
+You can create an index (table of contents) in your README.md file using Markdown anchor links. 
+The manual method (Method 1) is usually best for most READMEs—simple, reliable, and works everywhere Markdown is supported.
+Here are several ways to do it:
 
 ## Method 1: Manual Anchor Links (Most Common)
 
@@ -424,8 +424,5 @@ MIT © 2024 Your Name
    ```markdown
    [Back to top](#project-title)
    ```
-
-The manual method (Method 1) is usually best for most READMEs—simple, reliable, and works everywhere Markdown is supported.
-
 
 
